@@ -23,6 +23,8 @@ pip install flask-cors
 pip install python-dotenv
 pip install json
 pip install scikit-learn
+pip install pandas
+pip install openai
 
 ## Para correr la api:
 

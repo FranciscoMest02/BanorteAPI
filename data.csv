@@ -1,0 +1,703 @@
+Establecimiento,Monto,Repeticiones,Etiqueta
+Libreria A,50,0,Libros
+Subway,10,0,Comida
+Gimnasio X,40,0,Gimnasio
+Cafetería B,5,0,Cafetería
+H&M,30,0,Ropa
+Netflix,12,0,Suscripciones
+Farmacia C,15,0,Farmacia
+Uber,20,0,Transporte
+Pizzería Y,8,0,Pizza
+Amazon,60,0,Electrónicos
+Libreria A,45,1,Libros
+Subway,12,1,Comida
+Gimnasio X,40,1,Gimnasio
+Cafetería B,5,1,Cafetería
+H&M,30,1,Ropa
+Netflix,12,1,Suscripciones
+Farmacia C,15,1,Farmacia
+Uber,18,1,Transporte
+Pizzería Y,8,1,Pizza
+Amazon,70,1,Electrónicos
+Libreria A,55,2,Libros
+Subway,10,2,Comida
+Gimnasio X,40,2,Gimnasio
+Cafetería B,5,2,Cafetería
+H&M,30,2,Ropa
+Netflix,12,2,Suscripciones
+Farmacia C,15,2,Farmacia
+Uber,20,2,Transporte
+Pizzería Y,8,2,Pizza
+Amazon,80,2,Electrónicos
+Starbucks,6,0,Cafetería
+Zara,40,0,Ropa
+Amazon,90,0,Electrónicos
+Libreria A,50,3,Libros
+Subway,10,3,Comida
+Gimnasio X,40,3,Gimnasio
+Cafetería B,5,3,Cafetería
+H&M,30,3,Ropa
+Netflix,12,3,Suscripciones
+Farmacia C,15,3,Farmacia
+Uber,20,3,Transporte
+Pizzería Y,8,3,Pizza
+Amazon,100,3,Electrónicos
+Libreria A,45,4,Libros
+Subway,12,4,Comida
+Gimnasio X,40,4,Gimnasio
+Cafetería B,5,4,Cafetería
+H&M,30,4,Ropa
+Netflix,12,4,Suscripciones
+Farmacia C,15,4,Farmacia
+Uber,18,4,Transporte
+Pizzería Y,8,4,Pizza
+Amazon,110,4,Electrónicos
+Libreria D,55,0,Libros
+Subway,9,0,Comida
+Gimnasio Y,38,0,Gimnasio
+Cafetería C,6,0,Cafetería
+Forever 21,28,0,Ropa
+Disney+,13,0,Entretenimiento
+Farmacia Z,16,0,Farmacia
+Lyft,19,0,Transporte
+Pizzería Z,7,0,Pizza
+Best Buy,65,0,Electrónicos
+Libreria E,60,0,Libros
+KFC,11,0,Comida
+Planet Fitness,45,0,Gimnasio
+Starbucks,5,0,Cafetería
+Nike,35,0,Ropa
+Netflix,11,0,Suscripciones
+Farmacia M,14,0,Farmacia
+Uber,17,0,Transporte
+Domino's,9,0,Pizza
+Apple Store,75,0,Electrónicos
+Libreria F,70,0,Libros
+Burger King,8,0,Comida
+24 Hour Fitness,50,0,Gimnasio
+Dunkin' Donuts,4,0,Cafetería
+Adidas,40,0,Ropa
+HBO Max,12,0,Suscripciones
+CVS,18,0,Farmacia
+Lyft,20,0,Transporte
+Pizza Hut,6,0,Pizza
+Microsoft Store,80,0,Electrónicos
+Libreria G,45,0,Libros
+Taco Bell,7,0,Comida
+Anytime Fitness,48,0,Gimnasio
+Peet's Coffee,5,0,Cafetería
+Zara,32,0,Ropa
+Amazon Prime,14,0,Suscripciones
+Walgreens,17,0,Farmacia
+Uber,21,0,Transporte
+Papa John's,8,0,Pizza
+Samsung Store,70,0,Electrónicos
+Libreria H,58,0,Libros
+McDonald's,9,0,Comida
+Gold's Gym,42,0,Gimnasio
+Caribou Coffee,6,0,Cafetería
+Gap,37,0,Ropa
+Hulu,11,0,Suscripciones
+Rite Aid,15,0,Farmacia
+Lyft,19,0,Transporte
+Little Caesars,7,0,Pizza
+Sony Store,72,0,Electrónicos
+Libreria I,62,0,Libros
+Wendy's,8,0,Comida
+Equinox,46,0,Gimnasio
+Dutch Bros,4,0,Cafetería
+H&M,31,0,Ropa
+Disney+,12,0,Suscripciones
+CVS,16,0,Farmacia
+Uber,18,0,Transporte
+Domino's,10,0,Pizza
+Best Buy,68,0,Electrónicos
+Libreria J,55,0,Libros
+Panda Express,10,0,Comida
+LA Fitness,49,0,Gimnasio
+Starbucks,5,0,Cafetería
+Forever 21,29,0,Ropa
+Netflix,10,0,Suscripciones
+Walgreens,15,0,Farmacia
+Lyft,20,0,Transporte
+Pizza Hut,7,0,Pizza
+Apple Store,77,0,Electrónicos
+Libreria K,57,0,Libros
+Subway,11,0,Comida
+Planet Fitness,47,0,Gimnasio
+Dunkin' Donuts,4,0,Cafetería
+Adidas,39,0,Ropa
+HBO Max,13,0,Suscripciones
+Rite Aid,17,0,Farmacia
+Uber,22,0,Transporte
+Papa John's,9,0,Pizza
+Microsoft Store,73,0,Electrónicos
+Libreria L,59,0,Libros
+Burger King,7,0,Comida
+24 Hour Fitness,52,0,Gimnasio
+Peet's Coffee,6,0,Cafetería
+Zara,34,0,Ropa
+Amazon Prime,15,0,Suscripciones
+CVS,19,0,Farmacia
+Lyft,18,0,Transporte
+Little Caesars,8,0,Pizza
+Samsung Store,75,0,Electrónicos
+Biblioteca Central,0,0,Libros
+Uber,22,0,Transporte
+Pizzería Napolitana,15,0,Comida
+Apartamento en el Centro,800,0,Alquiler
+Papelería XYZ,12,0,Material de estudio
+Cineplex,18,0,Cine
+Clínica Salud Total,60,0,Médico
+Farmacia Express,10,0,Farmacia
+Estación de Servicio A,40,0,Gasolina
+AT&T,35,0,Teléfono
+Imprenta Rápida,8,0,Impresiones
+Pizza Italia,12,0,Pizza
+Taxi 123,15,0,Taxis
+Teatro Municipal,30,0,Conciertos
+Bar El Patio,50,0,Fiesta
+Lavandería LimpiaTodo,9,0,Lavandería
+Gimnasio Wellness,30,0,Deportes
+Tienda de Regalos Creativos,20,0,Regalos
+Agencia de Viajes DreamTrip,300,0,Viaje
+Cuenta de Ahorros,500,0,Ahorro
+Amazon Prime,12,0,Suscripciones
+Aseguradora SeguroVida,80,0,Seguro médico
+Taller Mecánico FixIt,70,0,Reparaciones
+Starbucks,6,0,Café
+Metrobús,2,0,Transporte público
+Apple Store,100,0,Electrónicos
+Libreria XYZ,45,0,Libros
+Uber,20,1,Transporte
+Bistro Gourmet,25,1,Comida
+Apartamento en el Centro,800,1,Alquiler
+Papelería ABC,15,1,Material de estudio
+Cineplex,18,1,Cine
+Clínica Salud Total,70,1,Médico
+Farmacia Express,10,1,Farmacia
+Estación de Servicio B,35,1,Gasolina
+AT&T,40,1,Teléfono
+Imprenta Rápida,9,1,Impresiones
+Pizza Hut,14,1,Pizza
+Taxi 456,12,1,Taxis
+Teatro Municipal,30,1,Conciertos
+Bar Los Amigos,60,1,Fiesta
+Lavandería FreshClean,8,1,Lavandería
+Gimnasio FitZone,28,1,Deportes
+Tienda de Regalos Sorpresa,15,1,Regalos
+Agencia de Viajes ExploreMore,500,1,Viaje
+Cuenta de Ahorros,550,1,Ahorro
+Netflix,11,1,Suscripciones
+Aseguradora SaludTotal,90,1,Seguro médico
+Taller Mecánico AutoFix,75,1,Reparaciones
+Cafetería Aroma,5,0,Café
+Metrobús,2,1,Transporte público
+Samsung Store,120,1,Electrónicos
+Libreria LeemosJuntos,50,0,Libros
+Uber,18,2,Transporte
+Restaurante SaborCasero,35,2,Comida
+Apartamento en el Centro,800,2,Alquiler
+Papelería Eureka,14,2,Material de estudio
+CineStar,20,2,Cine
+Clínica Médica Bienestar,75,2,Médico
+Farmacia Express,12,2,Farmacia
+Estación de Servicio C,30,2,Gasolina
+AT&T,38,2,Teléfono
+Imprenta Creativa,7,2,Impresiones
+Pizza Napoli,13,2,Pizza
+Taxi 789,10,2,Taxis
+Teatro Nacional,35,2,Conciertos
+Bar HappyHour,70,2,Fiesta
+Lavandería LavaFácil,9,2,Lavandería
+Gimnasio BodyTone,25,2,Deportes
+Tienda de Regalos RegalaTodo,18,2,Regalos
+Agencia de Viajes ExploreMore,520,2,Viaje
+Cuenta de Ahorros,600,2,Ahorro
+HBO Max,10,2,Suscripciones
+Aseguradora HealthGuard,100,2,Seguro médico
+Taller Mecánico FixIt,80,2,Reparaciones
+Cafetería Delicias,6,1,Café
+Metrobús,3,1,Transporte público
+Microsoft Store,130,2,Electrónicos
+Libreria LeemosMás,48,0,Libros
+Uber,19,3,Transporte
+Restaurante GourmetFusion,40,3,Comida
+Apartamento en el Centro,800,3,Alquiler
+Papelería EducaTodo,16,3,Material de estudio
+CineCity,25,3,Cine
+Clínica de Ojos Visión Clara,80,3,Médico
+Farmacia Vital,11,3,Farmacia
+Estación de Servicio D,32,3,Gasolina
+AT&T,42,3,Teléfono
+Imprenta ImpresiónTotal,6,3,Impresiones
+Pizza Express,15,3,Pizza
+Taxi 101,11,3,Taxis
+Teatro Municipal,35,3,Conciertos
+Bar NocheLoca,55,3,Fiesta
+Lavandería LimpiezaTotal,7,3,Lavandería
+Gimnasio ActiveLife,22,3,Deportes
+Tienda de Regalos Especial,20,3,Regalos
+Agencia de Viajes DreamHoliday,550,3,Viaje
+Cuenta de Ahorros,620,3,Ahorro
+Disney+,15,3,Suscripciones
+Aseguradora Medisecure,110,3,Seguro médico
+Taller Mecánico AutoFix,90,3,Reparaciones
+Cafetería Delicias,5,2,Café
+Metrobús,3,2,Transporte público
+Apple Store,140,3,Electrónicos
+Tienda de Ropa Elegante,75,0,Ropa
+CineMax,22,0,Entretenimiento
+Clínica Dental Sonrisa Perfecta,45,0,Médico
+Gasolinera Express,45,0,Gasolina
+Compañía de Telefonía Móvil X,28,0,Teléfono
+Tienda de Electrónicos TechWorld,110,0,Electrónicos
+Libreria Cultural,40,0,Libros
+Restaurante Italiano Gusto,30,0,Comida
+Alquiler de Apartamento B,850,0,Alquiler
+Librería Universitaria,20,0,Material de estudio
+Cine de Arte Indie,14,0,Cine
+Clínica de Atención Primaria,50,0,Médico
+Farmacia Rápida,12,0,Farmacia
+Estación de Servicio E,37,0,Gasolina
+Proveedor de Internet SpeedNet,55,0,Internet
+Imprenta Impresión Rápida,9,0,Impresiones
+Pizzería Original,11,0,Pizza
+Servicio de Taxi Express,13,0,Taxis
+Estadio de Conciertos,70,0,Conciertos
+Discoteca NocheLoca,60,0,Fiesta
+Lavandería Suavidad,8,0,Lavandería
+Centro Deportivo Activo,35,0,Deportes
+Tienda de Regalos Especiales,22,0,Regalos
+Agencia de Viajes Aventura Total,580,0,Viaje
+Cuenta de Ahorros en Banco X,700,0,Ahorro
+Suscripción a Revista de Ciencia,15,0,Suscripciones
+Aseguradora SaludSegura,95,0,Seguro médico
+Taller de Reparación de Autos AutoFix,85,0,Reparaciones
+Cafetería de Esquina,5,0,Café
+Transporte Público Urbano,2,0,Transporte público
+Tienda de Ropa Casual,40,0,Ropa
+Cine de Ciencia Ficción,16,0,Cine
+Clínica de Especialidades Médicas,70,0,Médico
+Farmacia Económica,11,0,Farmacia
+Estación de Servicio F,32,0,Gasolina
+Proveedor de Internet FastConnect,50,0,Internet
+Imprenta RápidaPrint,7,0,Impresiones
+Pizzería Expresso,10,0,Pizza
+Servicio de Taxi Rápido,12,0,Taxis
+Estadio de Deportes,60,0,Deportes
+Discoteca BailaSalvaje,45,0,Fiesta
+Lavandería Delicada,6,0,Lavandería
+Centro Deportivo FitnessPro,30,0,Deportes
+Tienda de Regalos Creativos,18,0,Regalos
+Agencia de Viajes ExploraMundo,520,0,Viaje
+Cuenta de Ahorros en Banco Y,670,0,Ahorro
+Suscripción a Servicio de Streaming Z,14,0,Suscripciones
+Aseguradora HealthGuard Plus,105,0,Seguro médico
+Taller de Reparación de Electrónicos TechFix,95,0,Reparaciones
+Cafetería de la Esquina,6,1,Café
+Transporte Subterráneo,3,1,Transporte público
+Tienda de Electrónicos DigitalWorld,120,0,Electrónicos
+Libreria Educativa,42,0,Libros
+Restaurante de Sushi SushiLandia,28,0,Comida
+Alquiler de Apartamento C,820,0,Alquiler
+Librería de Arte,24,0,Material de estudio
+Cine de Acción,20,0,Cine
+Clínica de Pediatría Sonrisitas,35,0,Médico
+Farmacia Bienestar,13,0,Farmacia
+Estación de Servicio G,38,0,Gasolina
+Proveedor de Internet NetSpeed,48,0,Internet
+Imprenta Impresión Perfecta,8,0,Impresiones
+Pizzería Gusto Italiano,14,0,Pizza
+Servicio de Taxi RápidoExpress,16,0,Taxis
+Estadio de Fútbol,55,0,Deportes
+Discoteca NocheViva,50,0,Fiesta
+Lavandería LavaBien,7,0,Lavandería
+Centro Deportivo ActiveLife,32,0,Deportes
+Tienda de Regalos Sorpresa,16,0,Regalos
+Agencia de Viajes ViajaYa,540,0,Viaje
+Cuenta de Ahorros en Banco Z,620,0,Ahorro
+Netflix,10,4,Suscripciones
+Aseguradora VidaSegura,100,1,Seguro médico
+Taller de Reparación de Dispositivos TechFix,90,1,Reparaciones
+Cafetería del Parque,5,2,Café
+Transporte en Bicicleta,1,2,Transporte público
+Apple Store,130,1,Electrónicos
+Libreria LeyendoJuntos,48,1,Libros
+Uber,19,4,Transporte
+Restaurante SaborMediterráneo,45,4,Comida
+Apartamento en el Centro,800,4,Alquiler
+Papelería EducaTodo,16,4,Material de estudio
+CineCity,25,4,Cine
+Clínica de Atención Médica Integral,75,4,Médico
+Farmacia Vital,11,4,Farmacia
+Estación de Servicio H,32,4,Gasolina
+AT&T,42,4,Teléfono
+Imprenta ImpresiónTotal,6,4,Impresiones
+Pizza Express,15,4,Pizza
+Taxi 101,11,4,Taxis
+Teatro Municipal,35,4,Conciertos
+Bar NocheLoca,55,4,Fiesta
+Lavandería LimpiezaTotal,7,4,Lavandería
+Gimnasio BodyTone,25,4,Deportes
+Tienda de Regalos Especial,20,4,Regalos
+Agencia de Viajes DreamHoliday,550,4,Viaje
+Cuenta de Ahorros,620,4,Ahorro
+Disney+,15,4,Suscripciones
+Aseguradora Medisecure,110,4,Seguro médico
+Taller Mecánico AutoFix,90,4,Reparaciones
+Cafetería Delicias,5,3,Café
+Metrobús,3,3,Transporte público
+Microsoft Store,140,4,Electrónicos
+Libreria A,50,4,Libros
+Subway,10,4,Comida
+Gimnasio X,40,4,Gimnasio
+Cafetería B,5,4,Cafetería
+H&M,30,4,Ropa
+Netflix,12,4,Suscripciones
+Farmacia C,15,4,Farmacia
+Uber,20,4,Transporte
+Pizzería Y,8,4,Pizza
+Amazon,60,4,Electrónicos
+Starbucks,6,4,Café
+Zara,40,4,Ropa
+Amazon,90,4,Electrónicos
+Libreria A,50,5,Libros
+Subway,10,5,Comida
+Gimnasio X,40,5,Gimnasio
+Cafetería B,5,5,Cafetería
+H&M,30,5,Ropa
+Netflix,12,5,Suscripciones
+Farmacia C,15,5,Farmacia
+Uber,18,5,Transporte
+Pizzería Y,8,5,Pizza
+Amazon,70,5,Electrónicos
+Libreria A,55,6,Libros
+Subway,10,6,Comida
+Gimnasio X,40,6,Gimnasio
+Cafetería B,5,6,Cafetería
+H&M,30,6,Ropa
+Netflix,12,6,Suscripciones
+Farmacia C,15,6,Farmacia
+Uber,20,6,Transporte
+Pizzería Y,8,6,Pizza
+Amazon,80,6,Electrónicos
+Libreria A,45,7,Libros
+Subway,12,7,Comida
+Gimnasio X,40,7,Gimnasio
+Cafetería B,5,7,Cafetería
+H&M,30,7,Ropa
+Netflix,12,7,Suscripciones
+Farmacia C,15,7,Farmacia
+Uber,18,7,Transporte
+Pizzería Y,8,7,Pizza
+Amazon,110,7,Electrónicos
+Libreria D,55,4,Libros
+Subway,9,4,Comida
+Gimnasio Y,38,4,Gimnasio
+Cafetería C,6,4,Cafetería
+Forever 21,28,4,Ropa
+Disney+,13,4,Entretenimiento
+Farmacia Z,16,4,Farmacia
+Lyft,19,4,Transporte
+Pizzería Z,7,4,Pizza
+Best Buy,65,4,Electrónicos
+Libreria E,60,4,Libros
+KFC,11,4,Comida
+Planet Fitness,45,4,Gimnasio
+Starbucks,5,4,Cafetería
+Nike,35,4,Ropa
+Netflix,11,4,Suscripciones
+Farmacia M,14,4,Farmacia
+Uber,17,4,Transporte
+Domino's,9,4,Pizza
+Apple Store,75,4,Electrónicos
+Libreria F,70,4,Libros
+Burger King,8,4,Comida
+24 Hour Fitness,50,4,Gimnasio
+Dunkin' Donuts,4,4,Cafetería
+Adidas,40,4,Ropa
+HBO Max,12,4,Suscripciones
+CVS,18,4,Farmacia
+Lyft,20,4,Transporte
+Pizza Hut,6,4,Pizza
+Microsoft Store,80,4,Electrónicos
+Libreria G,45,4,Libros
+Taco Bell,7,4,Comida
+Anytime Fitness,48,4,Gimnasio
+Peet's Coffee,5,4,Cafetería
+Zara,32,4,Ropa
+Amazon Prime,14,4,Suscripciones
+Walgreens,17,4,Farmacia
+Uber,21,4,Transporte
+Papa John's,8,4,Pizza
+Samsung Store,70,4,Electrónicos
+Libreria H,58,4,Libros
+McDonald's,9,4,Comida
+Gold's Gym,42,4,Gimnasio
+Caribou Coffee,6,4,Cafetería
+Gap,37,4,Ropa
+Hulu,11,4,Suscripciones
+Rite Aid,15,4,Farmacia
+Lyft,19,4,Transporte
+Little Caesars,7,4,Pizza
+Sony Store,72,4,Electrónicos
+Libreria I,62,4,Libros
+Wendy's,8,4,Comida
+Equinox,46,4,Gimnasio
+Dutch Bros,4,4,Cafetería
+H&M,31,4,Ropa
+Disney+,12,4,Suscripciones
+CVS,16,4,Farmacia
+Uber,18,4,Transporte
+Domino's,10,4,Pizza
+Best Buy,68,4,Electrónicos
+Libreria J,55,4,Libros
+Panda Express,10,4,Comida
+LA Fitness,49,4,Gimnasio
+Starbucks,5,4,Cafetería
+Forever 21,29,4,Ropa
+Netflix,10,4,Suscripciones
+Walgreens,15,4,Farmacia
+Lyft,20,4,Transporte
+Pizza Hut,7,4,Pizza
+Apple Store,77,4,Electrónicos
+Libreria K,57,4,Libros
+Subway,11,4,Comida
+Planet Fitness,47,4,Gimnasio
+Dunkin' Donuts,4,4,Cafetería
+Adidas,39,4,Ropa
+HBO Max,13,4,Suscripciones
+Rite Aid,17,4,Farmacia
+Uber,22,4,Transporte
+Papa John's,9,4,Pizza
+Microsoft Store,73,4,Electrónicos
+Libreria L,59,4,Libros
+Burger King,7,4,Comida
+24 Hour Fitness,52,4,Gimnasio
+Peet's Coffee,6,4,Cafetería
+Zara,34,4,Ropa
+Amazon Prime,15,4,Suscripciones
+CVS,19,4,Farmacia
+Lyft,18,4,Transporte
+Little Caesars,8,4,Pizza
+Samsung Store,75,4,Electrónicos
+Biblioteca Central,0,4,Libros
+Uber,22,4,Transporte
+Pizzería Napolitana,15,4,Comida
+Apartamento en el Centro,800,4,Alquiler
+Papelería XYZ,12,4,Material de estudio
+Cineplex,18,4,Cine
+Clínica Salud Total,60,4,Médico
+Farmacia Express,10,4,Farmacia
+Estación de Servicio A,40,4,Gasolina
+AT&T,35,4,Teléfono
+Imprenta Rápida,8,4,Impresiones
+Pizza Italia,12,4,Pizza
+Taxi 123,15,4,Taxis
+Teatro Municipal,30,4,Conciertos
+Bar El Patio,50,4,Fiesta
+Lavandería LimpiaTodo,9,4,Lavandería
+Gimnasio Wellness,30,4,Deportes
+Tienda de Regalos Creativos,20,4,Regalos
+Agencia de Viajes DreamTrip,300,4,Viaje
+Cuenta de Ahorros,500,4,Ahorro
+Amazon Prime,12,4,Suscripciones
+Aseguradora SeguroVida,80,4,Seguro médico
+Taller Mecánico FixIt,70,4,Reparaciones
+Starbucks,6,4,Café
+Metrobús,2,4,Transporte público
+Apple Store,100,4,Electrónicos
+Libreria XYZ,45,4,Libros
+Uber,20,5,Transporte
+Bistro Gourmet,25,5,Comida
+Apartamento en el Centro,800,5,Alquiler
+Papelería ABC,15,5,Material de estudio
+Cineplex,18,5,Cine
+Clínica Salud Total,70,5,Médico
+Farmacia Express,10,5,Farmacia
+Estación de Servicio B,35,5,Gasolina
+AT&T,40,5,Teléfono
+Imprenta Rápida,9,5,Impresiones
+Pizza Hut,14,5,Pizza
+Taxi 456,12,5,Taxis
+Teatro Municipal,30,5,Conciertos
+Bar Los Amigos,60,5,Fiesta
+Lavandería FreshClean,8,5,Lavandería
+Gimnasio FitZone,28,5,Deportes
+Tienda de Regalos Sorpresa,15,5,Regalos
+Agencia de Viajes ExploreMore,500,5,Viaje
+Cuenta de Ahorros,550,5,Ahorro
+Netflix,11,5,Suscripciones
+Aseguradora SaludTotal,90,5,Seguro médico
+Taller Mecánico AutoFix,75,5,Reparaciones
+Cafetería Aroma,5,4,Café
+Metrobús,2,5,Transporte público
+Samsung Store,120,5,Electrónicos
+Libreria LeemosJuntos,50,4,Libros
+Uber,18,6,Transporte
+Restaurante SaborCasero,35,6,Comida
+Apartamento en el Centro,800,6,Alquiler
+Papelería Eureka,14,6,Material de estudio
+CineStar,20,6,Cine
+Clínica Médica Bienestar,75,6,Médico
+Farmacia Express,12,6,Farmacia
+Estación de Servicio C,30,6,Gasolina
+AT&T,38,6,Teléfono
+Imprenta Creativa,7,6,Impresiones
+Pizza Napoli,13,6,Pizza
+Taxi 789,10,6,Taxis
+Teatro Nacional,35,6,Conciertos
+Bar HappyHour,70,6,Fiesta
+Lavandería LavaFácil,9,6,Lavandería
+Gimnasio BodyTone,25,6,Deportes
+Tienda de Regalos RegalaTodo,18,6,Regalos
+Agencia de Viajes ExploreMore,520,6,Viaje
+Cuenta de Ahorros,600,6,Ahorro
+HBO Max,10,6,Suscripciones
+Aseguradora HealthGuard,100,6,Seguro médico
+Taller Mecánico FixIt,80,6,Reparaciones
+Cafetería Delicias,6,5,Café
+Metrobús,3,5,Transporte público
+Microsoft Store,130,6,Electrónicos
+Libreria LeemosMás,48,4,Libros
+Uber,19,7,Transporte
+Restaurante GourmetFusion,40,7,Comida
+Apartamento en el Centro,800,7,Alquiler
+Papelería EducaTodo,16,7,Material de estudio
+CineCity,25,7,Cine
+Clínica de Ojos Visión Clara,80,7,Médico
+Farmacia Vital,11,7,Farmacia
+Estación de Servicio D,32,7,Gasolina
+AT&T,42,7,Teléfono
+Imprenta ImpresiónTotal,6,7,Impresiones
+Pizza Express,15,7,Pizza
+Taxi 101,11,7,Taxis
+Teatro Municipal,35,7,Conciertos
+Bar NocheLoca,55,7,Fiesta
+Lavandería LimpiezaTotal,7,7,Lavandería
+Gimnasio ActiveLife,22,7,Deportes
+Tienda de Regalos Especial,20,7,Regalos
+Agencia de Viajes DreamHoliday,550,7,Viaje
+Cuenta de Ahorros,620,7,Ahorro
+Disney+,15,7,Suscripciones
+Aseguradora Medisecure,110,7,Seguro médico
+Taller Mecánico AutoFix,90,7,Reparaciones
+Cafetería Delicias,5,6,Café
+Metrobús,3,6,Transporte público
+Apple Store,140,7,Electrónicos
+Tienda de Ropa Elegante,75,4,Ropa
+CineMax,22,4,Entretenimiento
+Clínica Dental Sonrisa Perfecta,45,4,Médico
+Gasolinera Express,45,4,Gasolina
+Compañía de Telefonía Móvil X,28,4,Teléfono
+Tienda de Electrónicos TechWorld,110,4,Electrónicos
+Libreria Cultural,40,4,Libros
+Restaurante Italiano Gusto,30,4,Comida
+Alquiler de Apartamento B,850,4,Alquiler
+Librería Universitaria,20,4,Material de estudio
+Cine de Arte Indie,14,4,Cine
+Clínica de Atención Primaria,50,4,Médico
+Farmacia Rápida,12,4,Farmacia
+Estación de Servicio E,37,4,Gasolina
+Proveedor de Internet SpeedNet,55,4,Internet
+Imprenta Impresión RápidaPrint,7,4,Impresiones
+Pizzería Expresso,10,4,Pizza
+Servicio de Taxi Rápido,12,4,Taxis
+Estadio de Conciertos,70,4,Conciertos
+Discoteca NocheLoca,60,4,Fiesta
+Lavandería Suavidad,8,4,Lavandería
+Centro Deportivo Activo,35,4,Deportes
+Tienda de Regalos Especiales,22,4,Regalos
+Agencia de Viajes Aventura Total,580,4,Viaje
+Cuenta de Ahorros en Banco X,700,4,Ahorro
+Suscripción a Revista de Ciencia,15,4,Suscripciones
+Aseguradora SaludSegura,95,4,Seguro médico
+Taller de Reparación de Autos AutoFix,85,4,Reparaciones
+Cafetería de la Esquina,6,5,Café
+Transporte Subterráneo,3,5,Transporte público
+Tienda de Electrónicos DigitalWorld,120,4,Electrónicos
+Libreria Educativa,42,4,Libros
+Restaurante de Sushi SushiLandia,28,4,Comida
+Alquiler de Apartamento C,820,4,Alquiler
+Librería de Arte,24,4,Material de estudio
+Cine de Acción,20,4,Cine
+Clínica de Pediatría Sonrisitas,35,4,Médico
+Farmacia Bienestar,13,4,Farmacia
+Estación de Servicio F,32,4,Gasolina
+Proveedor de Internet FastConnect,50,4,Internet
+Imprenta RápidaPrint,8,4,Impresiones
+Pizzería Expresso,11,4,Pizza
+Servicio de Taxi RápidoExpress,13,4,Taxis
+Estadio de Deportes,60,4,Deportes
+Discoteca BailaSalvaje,45,4,Fiesta
+Lavandería Delicada,6,4,Lavandería
+Centro Deportivo FitnessPro,30,4,Deportes
+Tienda de Regalos Creativos,18,4,Regalos
+Agencia de Viajes ExploraMundo,520,4,Viaje
+Cuenta de Ahorros en Banco Z,620,4,Ahorro
+Netflix,10,8,Suscripciones
+Aseguradora VidaSegura,100,5,Seguro médico
+Taller de Reparación de Dispositivos TechFix,90,5,Reparaciones
+Cafetería del Parque,5,6,Café
+Transporte en Bicicleta,1,6,Transporte público
+Apple Store,130,5,Electrónicos
+Libreria LeyendoJuntos,48,5,Libros
+Uber,19,9,Transporte
+Restaurante SaborMediterráneo,45,9,Comida
+Apartamento en el Centro,800,9,Alquiler
+Papelería EducaTodo,16,9,Material de estudio
+CineCity,25,9,Cine
+Clínica de Atención Médica Integral,75,9,Médico
+Farmacia Vital,11,9,Farmacia
+Estación de Servicio H,32,9,Gasolina
+AT&T,42,9,Teléfono
+Imprenta ImpresiónTotal,6,9,Impresiones
+Pizza Express,15,9,Pizza
+Taxi 101,11,9,Taxis
+Teatro Municipal,35,9,Conciertos
+Bar NocheLoca,55,9,Fiesta
+Lavandería LimpiezaTotal,7,9,Lavandería
+Gimnasio BodyTone,25,9,Deportes
+Tienda de Regalos Especial,20,9,Regalos
+Agencia de Viajes DreamHoliday,550,9,Viaje
+Cuenta de Ahorros,620,9,Ahorro
+Disney+,15,9,Suscripciones
+Aseguradora Medisecure,110,9,Seguro médico
+Taller Mecánico AutoFix,90,9,Reparaciones
+Cafetería Delicias,5,8,Café
+Metrobús,3,8,Transporte público
+Microsoft Store,140,9,Electrónicos
+Libreria LeemosMás,48,7,Libros
+Uber,19,10,Transporte
+Restaurante GourmetFusion,40,10,Comida
+Apartamento en el Centro,800,10,Alquiler
+Papelería EducaTodo,16,10,Material de estudio
+CineCity,25,10,Cine
+Clínica de Ojos Visión Clara,80,10,Médico
+Farmacia Vital,11,10,Farmacia
+Estación de Servicio D,32,10,Gasolina
+AT&T,42,10,Teléfono
+Imprenta ImpresiónTotal,6,10,Impresiones
+Pizza Express,15,10,Pizza
+Taxi 101,11,10,Taxis
+Teatro Municipal,35,10,Conciertos
+Bar NocheLoca,55,10,Fiesta
+Lavandería LimpiezaTotal,7,10,Lavandería
+Gimnasio BodyTone,25,10,Deportes
+Tienda de Regalos Especial,20,10,Regalos
+Agencia de Viajes DreamHoliday,550,10,Viaje
+Cuenta de Ahorros,620,10,Ahorro
+Netflix,10,12,Suscripciones
+Aseguradora VidaSegura,100,11,Seguro médico
+Taller de Reparación de Dispositivos TechFix,90,11,Reparaciones
+Cafetería del Parque,5,12,Café
+Transporte en Bicicleta,1,12,Transporte público
+Apple Store,130,11,Electrónicos
+Libreria LeyendoJuntos,48,11,Libros
+Uber,19,13,Transporte
+Restaurante SaborMediterráneo,45,13,Comida
+Apartamento en el Centro,800,13,Alquiler
+Papelería EducaTodo,16,13,Material de estudio
+CineCity,25,13,Cine
+Clínica de Atención Médica Integral,75,13,Médico
