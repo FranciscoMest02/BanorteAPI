@@ -38,4 +38,4 @@ flask --app api.py run
 
 ## Otras especificaciones
 
-El archivo de train_clean_base.csv **no se debe modificar** ya que son los datos base que se obtuvieron de Kaggle. Se recomienda hacer una copia del archivo y nombrarla *train_clean.csv* ya que será la "base de datos" de la que el modelo se entrenará y a la que se le añadirán nuevos registros. Si se quiere "reiniciar" esta base de datos se debe borrar el archivo y hacer una nueva copia de train_clean_base.csv
+Los datos utilizados para el entrenamiento del modelo fueron generados sintéticamente y no representan a un caso real, solo se busca representar un caso de uso de la inteligencia artificial en la realidad.
